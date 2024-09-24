@@ -32,9 +32,7 @@
 
 <details>
   <summary>👻 Past Servers I Done 👻</summary>
-  
-  Here are some of my recent projects:
-  
+
   - [Los Santos State Roleplay]()
   - [Xtreme Roleplay]()
   - [Los Santos City Roleplay]()
