@@ -31,4 +31,4 @@
 </details>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baseyus&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baseys&show_icons=true&theme=radical)
