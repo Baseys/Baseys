@@ -1,21 +1,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=ffc500&width=435&lines=Owner+Of+ShitTalking" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=ffc500&width=435&lines=Basey+Likes+Code" alt="Typing SVG" /></a>
 
-**Hello! Thy Flippington, I do development work for some FiveM Serevrs like RRP, SASRP, GCN, FSN, LSDOJRP, OSRP, And many more. I know a lot about Lua & Javascript. Hoping to take a new learning path in C# 👋**
+**Hello! Basey, I do development work for fiveM, Roblox, Discord bots And many more soon. I know a lot about Lua & Javascript. 👋**
 <details>
   <summary>Projects 💻</summary>
 
-💔 I have resigned from developing until 2026...
+Atlas Neon - 2024 
+More SOON!
 
 </details>
-
-I'll fix this later v
-
-<br><br> Vibing to : 🎧  </strong></p>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314ztc2xua2ae3oga5s7gkmaxkke&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=cd04e7)](https://github.com/kittinan/spotify-github-profile)
-
-
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
