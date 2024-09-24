@@ -15,9 +15,15 @@
 - **Web Development:** Basic HTML, exploring CSS
 - **Interests:** Sports, gaming, web development
 
-## Projects I'm Working On:
+<details>
+  <summary>📂 Projects 💻</summary>
+  
+  Here are some of my recent projects:
+  
+  - [Awesome Lua Project](https://linktoyourproject.com)
+  - [JavaScript Game](https://linktoanotherproject.com)
 
-- [Awesome Lua Project](https://linktoyourproject.com)
-- [JavaScript Game](https://linktoanotherproject.com)
+</details>
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
