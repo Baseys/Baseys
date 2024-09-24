@@ -1,20 +1,23 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=ffc500&width=435&lines=Owner+Of+ShitTalking" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=ffc500&width=435&lines=Basey+Likes+Code" alt="Typing SVG" /></a>
+# Hi there, I'm Ayan 👋
 
-**Hello! Basey, I do development work for fiveM, Roblox, Discord bots And many more soon. I know a lot about Lua & Javascript. 👋**
-<details>
-  <summary>Projects 💻</summary>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=I+code+in+Lua+and+JavaScript;Learning+HTML;+Living+in+the+UK;Building+cool+projects!)
 
-Atlas Neon - 2024 
-More SOON!
+## About Me:
 
-</details>
+- 🌍 Living in the UK 🇬🇧
+- 💻 Coding in **Lua** and **JavaScript**
+- 🚀 Currently learning **HTML**
+- ⚽ I love playing football and support **Real Madrid** 🏆
 
-<div align="center" >
+## My Skills:
 
-<hr></hr>
+- **Languages:** Lua, JavaScript, HTML (learning)
+- **Web Development:** Basic HTML, exploring CSS
+- **Interests:** Sports, gaming, web development
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/baseyus/" width="75%"/><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
+## Projects I'm Working On:
 
-</div>
+- [Awesome Lua Project](https://linktoyourproject.com)
+- [JavaScript Game](https://linktoanotherproject.com)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
