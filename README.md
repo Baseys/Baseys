@@ -1,4 +1,4 @@
-# Hi there, I'm Ayan 👋
+# Hi there, I'm Basey 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=I+code+in+Lua+and+JavaScript;Learning+HTML;+Living+in+the+UK;Building+cool+projects!)
 
@@ -20,10 +20,10 @@
   
   Here are some of my recent projects:
   
-  - [Awesome Lua Project](https://linktoyourproject.com)
-  - [JavaScript Game](https://linktoanotherproject.com)
+  - [Atlas Neon](https://github.com/Baseys/Atlas-Neon)
+  - [Atlas Chat](https://linktoanotherproject.com)
 
 </details>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baseyus&show_icons=true&theme=radical)
