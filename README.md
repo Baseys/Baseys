@@ -33,12 +33,12 @@
 <details>
   <summary>👻 Past Servers I Done 👻</summary>
 
-  - [Los Santos State Roleplay]()
-  - [Xtreme Roleplay]()
-  - [Los Santos City Roleplay]()
-  - [San Andreas State Roleplay]()
-  - [Los Santos DOJ Roleplay]()
-  - [Sandy DOJ Roleplay]()
+  - Los Santos State Roleplay
+  - Xtreme Roleplay
+  - Los Santos City Roleplay
+  - San Andreas State Roleplay
+  - Los Santos DOJ Roleplay
+  - Sandy DOJ Roleplay
 
 </details>
 
