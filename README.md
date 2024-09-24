@@ -3,9 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&width=435&lines=I+code+in+Lua+and+JavaScript;" alt="Typing SVG" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF7F00&width=435&lines=Learning+HTML;" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFF00&width=435&lines=Living+in+the+UK;" alt="Typing SVG" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=435&lines=Building+cool+projects!" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0000FF&width=435&lines=Exploring+Web+Development;" alt="Typing SVG" />
 </p>
 
 
