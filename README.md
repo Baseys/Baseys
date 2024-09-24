@@ -30,5 +30,19 @@
 
 </details>
 
+<details>
+  <summary>👻 Past Servers I Done 👻</summary>
+  
+  Here are some of my recent projects:
+  
+  - [Los Santos State Roleplay]()
+  - [Xtreme Roleplay]()
+  - [Los Santos City Roleplay]()
+  - [San Andreas State Roleplay]()
+  - [Los Santos DOJ Roleplay]()
+  - [Sandy DOJ Roleplay]()
+
+</details>
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baseys&show_icons=true&theme=radical)
